@@ -5,6 +5,13 @@ MAT-GEI is a genotype-environment test with a multinomial association random eff
 <img src="doc/Figure1.png" alt="Workflow of MATGEI" style="zoom:60%;" />
 
 ## Installation
+We need to install the R package ACAT in advance to install MAT-GEI.
+
+```r
+# install.packages("devtools")
+devtools::install_github("yaowuliu/ACAT")
+```
+Then, install MAT-GEI.
 ```r
 # install.packages("devtools")
 devtools::install_github("mqzhanglab/MATGEI", build_vignettes = TRUE)
