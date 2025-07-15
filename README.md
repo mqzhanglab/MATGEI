@@ -11,7 +11,7 @@ We need to install the R package ACAT in advance to install MAT-GEI.
 # install.packages("devtools")
 devtools::install_github("yaowuliu/ACAT")
 ```
-Then, install MAT-GEI.
+MAT-GEI installation.
 ```r
 # install.packages("devtools")
 devtools::install_github("mqzhanglab/MATGEI", build_vignettes = TRUE)
