@@ -20,4 +20,4 @@ devtools::install_github("mqzhanglab/MATGEI", build_vignettes = TRUE)
 ## Documents
 
 - Call `vignette("MATGEI")` to see a short introduction.
-- See [here](https://github.com/mqzhanglab/MATGEI) for examples on data analysis. 
+- See [here](https://github.com/mqzhanglab/MATGEI/vignettes) for examples on data analysis. 
